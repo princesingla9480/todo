@@ -1,0 +1,37 @@
+.container
+{
+
+	
+}
+h1{
+     
+	font-style: sans-serif;
+}
+.first
+{
+	height: 200px;
+  width: 100%;
+	background-color: lightgray;
+	
+}
+.second
+{
+	height: 300px;
+  width: 100%;
+	
+	float:right;
+
+}
+.third
+{
+	
+	
+}
+.top
+{
+}
+.delete
+{
+	background-color: violet;
+    float : right;
+}
